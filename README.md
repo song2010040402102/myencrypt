@@ -1,2 +1,11 @@
-# myencrypt
-加密文件和文件夹
+
+-----------------myencrypt1.0------------------------
+
+function:
+	Encrypting and decoding file and directory. 
+
+install:
+	make install
+
+usage:
+	man myencrypt
